@@ -31,18 +31,7 @@
 | 🧠 **In-Memory DBMS** | Seamless, zero-lag `Zustand` architecture serves as the foundation for rapid multi-dimensional state updates spanning across all pages. |
 | 📸 **Integrated Imagery** | Utilizing genuine, pristine `Unsplash` image resolution dynamically formatted to authentic international cuisines. |
 
----
 
-## 🔑 Admin Portal Access
-
-Test the high-fidelity admin dashboard algorithms by authenticating via the `/login` portal:
-
-> **Email**: `aditya@example.com` <br>
-> **Password**: *(Any password, e.g., `123456`)*
-
-Once inside, explore the `/admin` view to test chart re-rendering simply by placing a new food order in the main app!
-
----
 
 ## 💻 Tech Stack & Architecture
 
