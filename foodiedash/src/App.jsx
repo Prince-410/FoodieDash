@@ -16,10 +16,12 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import StaticPage from './pages/StaticPage';
 import Contact from './pages/Contact';
+import ScrollToTop from './components/ScrollToTop';
 
 export default function App() {
   return (
     <>
+      <ScrollToTop />
       <Navbar />
       <ToastContainer />
       <Routes>
